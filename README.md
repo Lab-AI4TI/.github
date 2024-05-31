@@ -1,9 +1,10 @@
 # AI4TI Laboratory
-The laboratory develops information systems: from architecture to working versions.
 
 <p align="center">
 <img src="img/AI4TI_logo.jfif" width="200" />
 </p>
+
+The laboratory develops information systems: from architecture to working versions.
 
 **Table of contents:**
 
