@@ -10,7 +10,7 @@ The laboratory develops information systems: from architecture to working versio
 
 - [Information](#information)
 - [Projects](#projects)
-- [Other achievements](#Otherachievements)
+- [Other achievements](#Other-achievements)
 
 ## Information
 List of development directions:
