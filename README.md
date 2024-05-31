@@ -99,5 +99,15 @@ List of development directions:
         </p>
      </td>
    </tr>
-
+<tr>
+   <td>
+      <h1>MAMGD Optimizer</h1>
+      <p>
+      Gradient optimization method using exponential damping and second-order discrete derivative for neural networks and multidimensional real functions
+      </p>
+      <p>
+        <a href="https://github.com/NekkittAY/MAMGD_Optimizer">About</a>
+      </p>
+   </td>
+ </tr>
 </table>
