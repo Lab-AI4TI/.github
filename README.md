@@ -41,6 +41,7 @@ List of development directions:
      <td>
        <img width="800px" src=""/>
      </td>
+     <td>
         <h1>MacCheck</h1>
         <p>
           A project in which a web application has been developed to manage network equipment through a user interface. This information system helps system administrators more easily manage and control equipment in the enterprise.
