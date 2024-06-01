@@ -9,5 +9,5 @@ List of development directions:
 - Development of machine learning models
 
 <p>
-  <a href="https://github.com/Lab-AI4TI/.github/">About</a>
+  <a href="https://github.com/Lab-AI4TI/.github/">About</a> | <a href="https://github.com/Lab-AI4TI/.github/?tab=readme-ov-file#projects">Projects</a>
 </p>
