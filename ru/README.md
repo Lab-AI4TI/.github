@@ -4,7 +4,7 @@
 <img src="https://github.com/Lab-AI4TI/.github/blob/main/img/AI4TI_logo.jfif" width="200" />
 </p>
 
-The laboratory develops information systems: from architecture to working versions.
+Лаборатория занимается разработкой информационных систем: от архитектуры до рабочих версий.
 
 **Table of contents:**
 
