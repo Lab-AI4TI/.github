@@ -53,7 +53,7 @@ The laboratory develops information systems: from architecture to working versio
 
   <tr>
      <td>
-       <img width="800px" src="img/PG_logo.png"/>
+       <img width="800px" src="./img/PG_logo.png"/>
      </td>
      <td>
         <h1>PowerGuard</h1>
