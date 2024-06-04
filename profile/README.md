@@ -13,5 +13,5 @@ List of development directions:
 </p>
 
 <p>
-  <a href="https://github.com/Lab-AI4TI/.github/tree/main/ru">Информация</a> | <a href="https://github.com/Lab-AI4TI/.github/tree/main/ru#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B">Проекты</a>
+  <a href="https://github.com/Lab-AI4TI/.github/tree/main/ru">Информация</a> | <a href="https://github.com/Lab-AI4TI/.github/blob/main/ru/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B">Проекты</a>
 </p>
