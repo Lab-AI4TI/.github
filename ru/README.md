@@ -1,7 +1,7 @@
 # Лаборатория цифровой трансформации бизнес-процессов в промышленности AI4TI
 
 <p align="center">
-<img src="./img/AI4TI_logo.jfif" width="200" />
+<img src="https://github.com/Lab-AI4TI/.github/blob/main/img/PG_logo.png" width="200" />
 </p>
 
 The laboratory develops information systems: from architecture to working versions.
@@ -52,7 +52,7 @@ The laboratory develops information systems: from architecture to working versio
 
   <tr>
      <td>
-       <img width="800px" src="./img/PG_logo.png"/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/PG_logo.png"/>
      </td>
      <td>
         <h1>PowerGuard</h1>
