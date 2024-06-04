@@ -1,7 +1,7 @@
 # Лаборатория цифровой трансформации бизнес-процессов в промышленности AI4TI
 
 <p align="center">
-<img src="img/AI4TI_logo.jfif" width="200" />
+<img src="./img/AI4TI_logo.jfif" width="200" />
 </p>
 
 The laboratory develops information systems: from architecture to working versions.
@@ -34,7 +34,6 @@ The laboratory develops information systems: from architecture to working versio
 3.	Веб-приложение для просмотра информации о повреждениях
 4.	Математическая модель для определения повреждений груза
 5.	Аппаратная часть для считывания данных с паллета
-
         </p>
      </td>
    </tr>
