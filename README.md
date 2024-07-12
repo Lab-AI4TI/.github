@@ -23,7 +23,7 @@ List of development directions:
 <table>
   <tr>
      <td>
-       <img width="800px" src=""/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/palmon_logo.jfif"/>
      </td>
      <td>
         <h1>PalMon</h1>
@@ -39,7 +39,7 @@ List of development directions:
 
   <tr>
      <td>
-       <img width="800px" src=""/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/maccheck_logo.jfif"/>
      </td>
      <td>
         <h1>MacCheck</h1>
@@ -51,7 +51,7 @@ List of development directions:
 
   <tr>
      <td>
-       <img width="800px" src="img/PG_logo.png"/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/PowerGuard_logo.jfif"/>
      </td>
      <td>
         <h1>PowerGuard</h1>
@@ -63,7 +63,7 @@ List of development directions:
 
   <tr>
      <td>
-       <img width="800px" src=""/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/emotional_view_logo.jfif"/>
      </td>
      <td>
         <h1>Emotional View</h1>
@@ -75,7 +75,7 @@ List of development directions:
 
   <tr>
      <td>
-       <img width="800px" src=""/>
+       <img width="800px" src="https://github.com/Lab-AI4TI/.github/blob/main/img/pichta_logo.jfif"/>
      </td>
      <td>
         <h1>Pichta</h1>
