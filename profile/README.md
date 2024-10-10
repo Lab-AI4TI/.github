@@ -7,6 +7,7 @@ List of development directions:
 - Web application development
 - Development of mathematical models
 - Development of machine learning models
+- Conducting scientific research
 
 <p>
   <a href="https://github.com/Lab-AI4TI/.github/">About</a> | <a href="https://github.com/Lab-AI4TI/.github/?tab=readme-ov-file#projects">Projects</a>
