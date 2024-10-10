@@ -89,17 +89,6 @@ List of development directions:
 ## Other achievements
 <table>
   <tr>
-     <td>
-        <h1>QR-Detect</h1>
-        <p>
-        QR_Detect is a web application for detecting and recognizing QR codes based on video recordings. QR_Detect uses machine learning techniques to localize and translate QR codes into URLs. Data on recognized codes is recorded in a database with additional information. 
-        </p>
-        <p>
-          <a href="https://github.com/Lab-AI4TI/QR_Detect/tree/main">About</a>
-        </p>
-     </td>
-   </tr>
-<tr>
    <td>
       <h1>MAMGD Optimizer</h1>
       <p>
@@ -110,4 +99,12 @@ List of development directions:
       </p>
    </td>
  </tr>
+  <tr>
+     <td>
+        <h1>QR-Detect</h1>
+        <p>
+        QR_Detect is a web application for detecting and recognizing QR codes based on video recordings. QR_Detect uses machine learning techniques to localize and translate QR codes into URLs. Data on recognized codes is recorded in a database with additional information. 
+        </p>
+     </td>
+   </tr>
 </table>
