@@ -18,6 +18,7 @@ List of development directions:
 - Web application development
 - Development of mathematical models
 - Development of machine learning models
+- Conducting scientific research
 
 ## Projects
 <table>
