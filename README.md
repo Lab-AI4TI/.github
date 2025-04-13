@@ -10,7 +10,8 @@ The laboratory develops information systems: from architecture to working versio
 
 - [Information](#information)
 - [Projects](#projects)
-- [Other achievements](#Other-achievements)
+- [Research](#research)
+- [Other achievements](#other-achievements)
 
 ## Information
 List of development directions:
@@ -87,7 +88,7 @@ List of development directions:
    </tr>
 </table>
 
-## Other achievements
+## Research
 <table>
   <tr>
    <td>
@@ -100,6 +101,32 @@ List of development directions:
       </p>
    </td>
  </tr>
+  <tr>
+   <td>
+      <h1>WONC-FD Method</h1>
+      <p>
+      WONC-FD (Wavelet-Based Optimization and Numerical Computing for Fault Detection) is a method for detecting and classifying faults in time-series data using wavelet analysis and numerical optimization. This project aims to provide a robust and efficient method for identifying various types of errors within a signal.
+      </p>
+      <p>
+        <a href="https://github.com/NekkittAY/WONC-FD-Method">About</a>
+      </p>
+   </td>
+ </tr>
+    <tr>
+   <td>
+      <h1>DMD-Neural-Operator</h1>
+      <p>
+      Solving partial differential equations (PDEs) for various initial and boundary conditions requires significant computational resources. We propose a neural operator $G_\theta: \mathcal{A} \to \mathcal{U}$, mapping functional spaces, which combines dynamic mode decomposition (DMD) and deep learning for efficient modeling of spatiotemporal processes. The method automatically extracts key modes and system dynamics and uses them to construct predictions, reducing computational costs compared to traditional methods (FEM, FDM, FVM). The approach is demonstrated on the heat equation, Laplace's equation, and Burgers' equation, where it achieves high solution reconstruction accuracy.
+      </p>
+      <p>
+        <a href="https://github.com/NekkittAY/DMD-Neural-Operator">About</a>
+      </p>
+   </td>
+ </tr>
+</table>
+
+## Other achievements
+<table>
   <tr>
      <td>
         <h1>QR-Detect</h1>
